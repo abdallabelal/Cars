@@ -1,0 +1,30 @@
+.img{
+  background-image: url(../../assets/images/Vector.01008122101a76b5.png);
+ background-position-x:left ;
+  background-repeat: no-repeat;
+  background-size: contain;
+  overflow: hidden;
+}
+p
+{
+  font-size: 15px !important;
+}
+h5{
+  font-size: 18px !important;
+}
+a{
+  background-color: rgb(241, 236, 236) !important;;
+}
+.card{
+  height: 400px !important;
+  margin: 30px;
+}
+
+.review
+{
+  background-image: url(../../assets/images/bg-sec6.fe11606f40afc830.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x:right ;
+  overflow: hidden;
+}

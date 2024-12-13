@@ -1,0 +1,20 @@
+.landing{
+  height: 100vh;
+ background-image: url(../../assets/images/Frame.1d63487b713ff2af.png);
+ background-position-x:right ;
+ background-repeat: no-repeat;
+ background-size: contain;
+
+ overflow: hidden;
+
+}
+
+.content{
+  padding-left: 7%;
+
+}
+
+h1 span{
+  color: rgb(47, 126, 201);
+}
+
